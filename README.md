@@ -5,13 +5,6 @@ Homebrew tap for [`codep`](https://github.com/ruichard/codep).
 ## Install
 
 ```sh
-brew tap ruichard/codep
-brew install codep
-```
-
-Or in one shot:
-
-```sh
 brew install ruichard/codep/codep
 ```
 
