@@ -1,8 +1,8 @@
 class Codep < Formula
   desc "Route coding tasks to the best official CLI (Claude / Codex / Gemini)"
   homepage "https://github.com/ruichard/codep"
-  url "https://registry.npmjs.org/@ruichard/codep/-/codep-0.2.2.tgz"
-  sha256 "1798d67fed25f70d54154e3c2be8368473c39a5d89a5e6c46ffb1b26255bfab0"
+  url "https://registry.npmjs.org/@ruichard/codep/-/codep-0.2.3.tgz"
+  sha256 "d2149fcd34f39ef1e4b7a61b18a43b9cad6e48190b8170a14d407d3d6c612cc0"
   license "AGPL-3.0-only"
 
   depends_on "node"
